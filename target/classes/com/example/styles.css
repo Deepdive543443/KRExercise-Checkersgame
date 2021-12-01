@@ -1,0 +1,15 @@
+.label {
+    -fx-text-fill: blue;
+}
+
+.version:hover {
+    -fx-text-fill: red;
+}
+
+.block{
+    margin:0;
+}
+
+.block:hover{
+    -fx-background-color: rgb(200, 204, 200, 0.8);
+} 
